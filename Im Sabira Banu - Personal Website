@@ -1,0 +1,86 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://ol7QqwWThsxJgfD:943AY5ORUg9Omj2@localhost:59675/storage/emulated/0/PERSONAL%20WEBSITE/index.html
+Subject: Im Sabira Banu - Personal Website
+Date: Sun, 9 Mar 2025 13:41:27 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--SU6KqxmIm6BNsJC5Reww4H4lGZm0xNeRgz7uZ79tnZ----"
+
+
+------MultipartBoundary--SU6KqxmIm6BNsJC5Reww4H4lGZm0xNeRgz7uZ79tnZ----
+Content-Type: text/html
+Content-ID: <frame-AB88E49A8141FC4A7AFE4C12E87CF23A@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://ol7QqwWThsxJgfD:943AY5ORUg9Omj2@localhost:59675/storage/emulated/0/PERSONAL%20WEBSITE/index.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Im Sabira Banu - Personal Website</title>
+    <link rel="stylesheet" href="http://ol7QqwWThsxJgfD:943AY5ORUg9Omj2@localhost:59675/storage/emulated/0/PERSONAL%20WEBSITE/style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <p>I am Sabira Bakkar, a BCA student at Bharathidasan University.</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am currently pursuing a Bachelor of Computer Applications (BCA) at Bharathidasan University. With a keen interest in computer science and technology, I aim to continuously improve my skills through hands-on experience and practical learning.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li><strong>Programming Languages:</strong> Proficient in C, C++, and Python.</li>
+            <li><strong>Web Development:</strong> Experienced in HTML and CSS, creating interactive and responsive websites.</li>
+            <li><strong>Database Management:</strong> Skilled in SQL for database creation, management, and query optimization.</li>
+            <li><strong>Problem Solving:</strong> Strong analytical skills with a focus on breaking down complex problems and finding efficient solutions.</li>
+        </ul>
+    </section>
+
+    <section id="interests">
+        <h2>Interests</h2>
+        <ul>
+            <li><strong>Travel:</strong> Passionate about exploring new destinations and gaining insights into diverse cultures.</li>
+            <li><strong>Creative Arts:</strong> Enthusiastic about graphic design, digital content creation, and various forms of artistic expression.</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:sabirabakkar@gmail.com">sabirabakkar@gmail.com</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Sabira Bakkar. All rights reserved.</p>
+    </footer>
+
+</body></html>
+------MultipartBoundary--SU6KqxmIm6BNsJC5Reww4H4lGZm0xNeRgz7uZ79tnZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://ol7QqwWThsxJgfD:943AY5ORUg9Omj2@localhost:59675/storage/emulated/0/PERSONAL%20WEBSITE/style.css
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; text-align: center; background-color: rgb(244, 244, 244); margin: 0px; padding: 0px; }
+
+header { background-color: rgb(51, 51, 51); color: white; padding: 20px; }
+
+section { margin: 20px auto; padding: 20px; background: white; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px; width: 80%; }
+
+h2 { color: rgb(51, 51, 51); }
+
+ul { list-style-type: none; padding: 0px; }
+
+li { margin: 10px 0px; }
+
+footer { background-color: rgb(51, 51, 51); color: white; padding: 10px; position: relative; bottom: 0px; width: 100%; margin-top: 20px; }
+
+a { color: rgb(0, 123, 255); text-decoration: none; }
+
+a:hover { text-decoration: underline; }
+------MultipartBoundary--SU6KqxmIm6BNsJC5Reww4H4lGZm0xNeRgz7uZ79tnZ------
